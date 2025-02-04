@@ -5,6 +5,7 @@ In this workshop, you'll continue to get more practice working with events and e
 Preview of the app: a user types 9 into the input field and clicks a button to add it to a number bank. The user then clicks the "Sort 1" button. The 9 is moved from the number bank into the "odd" category.
 
 Instructions
+
 Remember to work on a local cloned copy of your forked repo, and to add your cohort team so that your code can be reviewed!
 
 Read and serve index.html to familiarize yourself with the elements you'll be working with.
